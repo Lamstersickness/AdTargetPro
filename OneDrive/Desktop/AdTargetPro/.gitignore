@@ -1,0 +1,32 @@
+# ===== Global OS junk =====
+.DS_Store
+Thumbs.db
+
+# ===== Node / React =====
+ad-frontend/node_modules/
+ad-frontend/build/
+ad-frontend/.env
+ad-frontend/.DS_Store
+
+# ===== Java / Spring Boot =====
+adapi/target/
+adapi/.classpath
+adapi/.project
+adapi/.settings/
+adapi/.idea/
+adapi/*.iml
+adapi/.DS_Store
+
+# ===== Logs =====
+*.log
+
+# ===== Misc =====
+*.swp
+*.swo
+
+# ===== IntelliJ =====
+.idea/
+*.iml
+
+# ===== VSCode =====
+.vscode/
