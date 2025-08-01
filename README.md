@@ -43,9 +43,6 @@ This project is an ad creation and searching application where users can post ad
 <img width="3165" height="1728" alt="Screenshot 2025-07-31 230651" src="https://github.com/user-attachments/assets/a1979c7a-3df1-4b19-b243-dd2d97de3ec3" />
 
 
-<img width="3171" height="1732" alt="Screenshot 2025-07-31 230710" src="https://github.com/user-attachments/assets/0158c2ee-7d43-442e-8a1b-536ebc414e98" />
-
-
 <img width="3199" height="1725" alt="Screenshot 2025-07-31 230720" src="https://github.com/user-attachments/assets/87392765-1787-4181-a196-912628d05388" />
 
 
